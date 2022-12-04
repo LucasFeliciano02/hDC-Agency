@@ -15,7 +15,7 @@
  </div>
  
 
- <h1 align="center">InDecor</h1>
+ <h1 align="center">hDC-Agency</h1>
  
  
 <p align="center">

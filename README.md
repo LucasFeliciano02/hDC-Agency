@@ -34,7 +34,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Landing Page de chamada para evento de design de interiores feita com html e css. Aula de Matheus Battisti para aprender front-end.
+• Projeto sobre uma Agência Web que cria projetos de softwares para seus clientes.
 ```
 
 ## :sparkles: Funcionalidades ##

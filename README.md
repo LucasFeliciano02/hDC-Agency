@@ -79,7 +79,7 @@ Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequ
 ```bash
 # Clone este repositorio
  -> git bash here
-  $ https://github.com/LucasFeliciano02/landing_page-InDecor.git
+  $ https://github.com/LucasFeliciano02/hDC-Agency.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code

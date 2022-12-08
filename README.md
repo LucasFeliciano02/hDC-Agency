@@ -60,7 +60,9 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
     <tr>
       <td>Css</td>
     </tr> 
-	    
+    <tr>
+      <td>JS</td>
+    </tr>     
   </tbody>
 
 </table>

@@ -34,7 +34,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Landing Page de chamada para evento de design de interiores feita com html e css. Aula de Matheus Battisti para aprender front-end.
+• Projeto sobre uma Agência Web que cria projetos de softwares para seus clientes.
 ```
 
 ## :sparkles: Funcionalidades ##
@@ -60,7 +60,9 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
     <tr>
       <td>Css</td>
     </tr> 
-	    
+    <tr>
+      <td>JS</td>
+    </tr>     
   </tbody>
 
 </table>
@@ -79,7 +81,7 @@ Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequ
 ```bash
 # Clone este repositorio
  -> git bash here
-  $ https://github.com/LucasFeliciano02/landing_page-InDecor.git
+  $ https://github.com/LucasFeliciano02/hDC-Agency.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code

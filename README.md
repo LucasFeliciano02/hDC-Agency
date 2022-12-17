@@ -94,6 +94,7 @@ Antes de começar 🏁, você vai precisar ter instalado em sua máquina as sequ
  2º  ->  venv\Scripts\activate.bat  
  3º  ->  .\venv\Scripts\activate.bat  
 
+# Ter conta no fontawesome.
 # Baixar Live server em extensões.
 ```
 

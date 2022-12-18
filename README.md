@@ -40,8 +40,8 @@
 ## :sparkles: Funcionalidades ##
 
 :heavy_check_mark: Seções intuitivas mostrando sobre como e onde será o evento;\
-:heavy_check_mark: Formulário para dúvidas.
-
+:heavy_check_mark: Formulário para dúvidas;\
+:heavy_check_mark: Landing page responsiva.
 
 ## :rocket: Tecnologias ##
  
